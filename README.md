@@ -63,8 +63,8 @@ Feel free to contribute by adding more papers, improving code, or providing feed
 This project is licensed under the [MIT License](LICENSE).
 
 ## References
-[1] Sultani *et al.* (2022), [Link to Paper M5](https://arxiv.org/pdf/2111.13656.pdf)  
-[2] Zedda *et al.* (ICIAP MALARIA), [Link to Paper ICIAP](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_30)
+[1] Sultani *et al.* (2022),[Link to Paper M5](https://arxiv.org/pdf/2111.13656.pdf)  
+[2] Zedda *et al.* (ICIAP MALARIA),[Link to Paper ICIAP](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_30)
 [3] Zedda *et al.* (YOLO PAM PAPER),[Link to Paper YOLO PAM](https://www.mdpi.com/2313-433X/9/12/266)
 [4] Zedda *et al.* (YOLO SPAM PAPER),[Link to Paper YOLO SPAM](https://www.sciencedirect.com/science/article/pii/S1746809424003471)
 
