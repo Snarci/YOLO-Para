@@ -28,7 +28,7 @@ The full list of model configurations can be found in the "config" folder.
 
 The full list of data configurations can be found in the "data" folder.
 
-### [STEP 3]  Train a YOLO-SPAM model
+### [STEP 3]  Train a YOLO-PARA model
 
 A small usage example is provided in the `train_notebook.ipynb` notebook.
 
