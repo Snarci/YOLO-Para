@@ -1,5 +1,13 @@
 # Official repository of YOLO Para: A deep architecture based on attention mechanisms for effective end-to-end detection of early and mature malaria parasites in a realistic scenario
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-deep-architecture-based-on-attention/malaria-falciparum-detection-on-m5-malaria)](https://paperswithcode.com/sota/malaria-falciparum-detection-on-m5-malaria?p=a-deep-architecture-based-on-attention)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-deep-architecture-based-on-attention/malaria-malariae-detection-on-mp-idb)](https://paperswithcode.com/sota/malaria-malariae-detection-on-mp-idb?p=a-deep-architecture-based-on-attention)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-deep-architecture-based-on-attention/malaria-ovale-detection-on-mp-idb)](https://paperswithcode.com/sota/malaria-ovale-detection-on-mp-idb?p=a-deep-architecture-based-on-attention)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-deep-architecture-based-on-attention/malaria-vivax-detection-on-mp-idb)](https://paperswithcode.com/sota/malaria-vivax-detection-on-mp-idb?p=a-deep-architecture-based-on-attention)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-deep-architecture-based-on-attention/malaria-falciparum-detection-on-mp-idb)](https://paperswithcode.com/sota/malaria-falciparum-detection-on-mp-idb?p=a-deep-architecture-based-on-attention)
 [[`YOLO PARA PAPER`](https://www.sciencedirect.com/science/article/pii/S001048252500054X?dgcid=coauthor)]
 [[`YOLO PAM PAPER`](https://www.mdpi.com/2313-433X/9/12/266)]
 [[`YOLO SPAM PAPER`](https://www.sciencedirect.com/science/article/pii/S1746809424003471)]
