@@ -84,7 +84,7 @@ This project is licensed under the [MIT License](LICENSE).
 [4] Zedda *et al.* (YOLO SPAM MALARIA), [Link to YOLO SPAM PAPER](https://www.sciencedirect.com/science/article/pii/S1746809424003471)
 
 
-## <a name="Citing YOLO-Para YOLO-PAM and YOLO-SPAM"></a>Citing YOLO-PAM
+## <a name="Citing YOLO-Para YOLO-PAM and YOLO-SPAM"></a>Citing YOLO-Para
 
 If you use YOLO-PAM or YOLO-SPAM in your research or wish to refer to the baseline results published in the original paper, please use the following BibTeX entry.
 
